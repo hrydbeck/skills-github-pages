@@ -33,6 +33,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You learned about proper directory format and file naming conventions in Jekyll.
 - You created your first blog post with Jekyll!
 
+Here is where the index.html is found: https://hrydbeck.github.io/skills-github-pages/index.html
+
 ### What's next?
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
